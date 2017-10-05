@@ -106,9 +106,7 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
 //TODO Add here your network seed nodes
-const std::initializer_list<const char*> SEED_NODES = {
-   "35.193.141.153:8080"   
-};
+
 const std::initializer_list<const char*> SEED_NODES = {
   "111.11.11.11:17236",
   "222.22.22.22:17236",
